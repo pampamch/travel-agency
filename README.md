@@ -1,4 +1,4 @@
-# travel-agency
+# TRAVEL AGENCY
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -39,10 +39,10 @@ npm run dev
 npm run build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+### Run Headed Component Tests with [Cypress Component Testing](https://on.cypress.io/component)
 
 ```sh
-npm run test:unit
+npm run test:unit # or `npm run test:unit:ci` for headless testing
 ```
 
 ### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
@@ -57,4 +57,5 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```sh
 npm run lint
 ```
+# travel-agency
 # travel-agency
